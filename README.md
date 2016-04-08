@@ -20,4 +20,3 @@ pour mettre à jour la branche courante.
 Voir 'git help config' et chercher 'push.default' pour plus d'information.
 (le mode 'simple' a été introduit dans Git 1.7.11. Utilisez le mode similaire
 'current' au lieu de 'simple' si vous utilisez de temps en temps d'anciennes versions de Git)
-
