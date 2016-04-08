@@ -1,5 +1,7 @@
 Questions résolues
 
+https://mensuel.framapad.org/p/gitflow
+
 Quatre étapes :
   Installation d'une application
   Afficher l'intensité wifi
